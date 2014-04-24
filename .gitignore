@@ -1,0 +1,15 @@
+.project
+/chat-server/.classpath
+/chat-server/.project
+/chat-server/.settings
+/chat-common/.settings
+/chat-common/target
+/chat-common/.classpath
+/chat-common/.project
+/chat-client/.classpath
+/chat-client/.project
+/chat-client/.settings
+/chat-client/logs
+/chat-client/target
+/chat-server/target
+/chat-server/.settings
